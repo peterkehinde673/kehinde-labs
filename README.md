@@ -34,8 +34,8 @@ Active development and experimental phase.
 ---
 
 ## 🔗 Repositories
-Titanium → https://github.com/peterkehinde673/titanium-chain
-Chat gta → https://github.com/peterkehinde673/chat-gta-chain
-Doctor X → https://github.com/peterkehinde673/doctorx-chain
-GODEN → https://github.com/peterkehinde673/goden-token
-KenBig → https://github.com/peterkehinde673/kenbig-chain
+- Titanium → https://github.com/peterkehinde673/titanium-chain  
+- Chat gta → https://github.com/peterkehinde673/chat-gta-chain  
+- Doctor X → https://github.com/peterkehinde673/doctorx-chain  
+- GODEN → https://github.com/peterkehinde673/goden-token  
+- KenBig → https://github.com/peterkehinde673/kenbig-chain  
