@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="kehinde-labs-logo.png" width="220"/>
+</p>
+
+<h1 align="center">Kehinde Labs</h1>
+
+<p align="center">
+Building modular Web3 ecosystems across infrastructure, communication, healthcare, and digital connectivity.
+</p>
+
 # Kehinde Labs 🌐
 
 Kehinde Labs is a modular Web3 ecosystem focused on building interconnected blockchain solutions across infrastructure, communication, healthcare, and digital value systems.
